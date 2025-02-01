@@ -16,7 +16,7 @@ How to Run the Code
 Using Maven (Recommended)
 1. Clone the repository  
    ```sh
-   git clone github-repo-url
-   cd Assignment1
+   git clone https://github.com/LCOW2402/Assignment1_c0924338.git
+   cd Assignment1_c0924338
    mvn clean install
    mvn test
